@@ -8,12 +8,18 @@ Ce TP est composé de deux exercices complets :
 
 ### Objectifs pédagogiques
 
-✔ Comprendre le mécanisme de sérialisation en Java
-✔ Manipuler ObjectOutputStream et ObjectInputStream
-✔ Utiliser Serializable, serialVersionUID et transient
-✔ Contrôler manuellement la sérialisation via Externalizable
-✔ Mettre en œuvre writeExternal() / readExternal()
-✔ Gérer les exceptions I/O et la compatibilité de version
+Comprendre le mécanisme de sérialisation en Java
+
+ Manipuler ObjectOutputStream et ObjectInputStream
+ 
+ Utiliser Serializable, serialVersionUID et transient
+ 
+ Contrôler manuellement la sérialisation via Externalizable
+ 
+ Mettre en œuvre writeExternal() / readExternal()
+ 
+ Gérer les exceptions I/O et la compatibilité de version
+ 
 
 ### Structure globale du TP
 TP13/
